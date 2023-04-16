@@ -1,0 +1,18 @@
+{
+  "name": "nodejs_mongo_github_setup",
+  "version": "1.0.0",
+  "description": "This is test repo to configure nodejs and mongodb",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3",
+    "typescript": "^5.0.4"
+  }
+}
